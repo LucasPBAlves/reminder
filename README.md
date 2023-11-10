@@ -54,3 +54,6 @@ To access the application, follow these steps:
   Next.js components.
   
   Clerk for user authentication.
+
+![image](https://github.com/LucasPBAlves/reminder/assets/66980562/2b95116c-9717-4622-a068-43bc2047d9ff)
+
