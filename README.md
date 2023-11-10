@@ -20,22 +20,37 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Accessing the Application
+## Accessing the Application
+
 To access the application, follow these steps:
 
-Launch the development server using one of the commands mentioned above.
-Open http://localhost:3000 in your browser.
-User Authentication
-If you already have an account, log in.
-If not, create an account.
-Alternatively, use the following test account:
-Username: TesteDTI
-Password: TesteDTI
-Features
-Create tasks and collections.
-Choose between light and dark themes.
-Log out when done.
-Technologies Used
-Prisma for SQLite database.
-Next.js components.
-Clerk for user authentication.
+  Launch the development server using one of the commands mentioned above.
+
+  Open http://localhost:3000 in your browser.
+
+  User Authentication
+
+  If you already have an account, log in.
+
+  If not, create an account.
+
+  Alternatively, use the following test account:
+
+    Username: TesteDTI
+
+    Password: TesteDTI
+
+## Features
+  Create tasks and collections.
+  
+  Choose between light and dark themes.
+  
+  Log out when done.
+  
+## Technologies Used
+
+  Prisma for SQLite database.
+  
+  Next.js components.
+  
+  Clerk for user authentication.
