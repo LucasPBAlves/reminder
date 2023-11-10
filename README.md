@@ -20,17 +20,22 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+Accessing the Application
+To access the application, follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Launch the development server using one of the commands mentioned above.
+Open http://localhost:3000 in your browser.
+User Authentication
+If you already have an account, log in.
+If not, create an account.
+Alternatively, use the following test account:
+Username: TesteDTI
+Password: TesteDTI
+Features
+Create tasks and collections.
+Choose between light and dark themes.
+Log out when done.
+Technologies Used
+Prisma for SQLite database.
+Next.js components.
+Clerk for user authentication.
